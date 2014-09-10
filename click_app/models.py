@@ -1,4 +1,4 @@
-from datetime import time
+from datetime import time, timedelta
 from django.core.exceptions import ValidationError
 from django.db import models
 from django.contrib.auth.models import User
@@ -30,7 +30,7 @@ class DurationField(models.Field):
             return DurationField()
         else:
             if isinstance(value, time):
-                return value
+                return (timedelta(hours=value.hour, minutes=value.minute, seconds=value.second))
             else:
                 args = [int(value.split(':')[0]),int(value.split(':')[1]), int(value.split(':')[2])]
                 if len(args) != 3 and value is not None:
