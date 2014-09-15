@@ -26,10 +26,11 @@ class DurationField(models.Field):
         return 'time'
 
     def to_python(self, value):
-        if value in ( None,''):
+        if value in (None, ''):
             return DurationField()
         else:
-            if isinstance(value, time):
+
+            if isinstance(value, timedelta):
                 return (timedelta(hours=value.hour, minutes=value.minute, seconds=value.second))
             else:
                 args = [int(value.split(':')[0]),int(value.split(':')[1]), int(value.split(':')[2])]
@@ -46,7 +47,7 @@ class Product(models.Model):
     price = models.DecimalField(max_digits=6, decimal_places=2)
     owner = models.ForeignKey(User)
     na_prodaje = models.BooleanField(default=False)
-    time = DurationField()
+    time = models.TimeField()
 
 
     def __unicode__(self):

@@ -1,7 +1,10 @@
 from django.conf.urls import patterns, include, url
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+from click_app.models import Product
 
 from django.contrib import admin
 admin.autodiscover()
+admin.site.register(Product)
 
 urlpatterns = patterns('',
     # Examples:
@@ -11,3 +14,4 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', include('click_app.urls'))
 )
+#urlpatterns += staticfiles_urlpatterns()

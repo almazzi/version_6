@@ -88,6 +88,11 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_FINDERS = ("django.contrib.staticfiles.finders.FileSystemFinder",
                       "django.contrib.staticfiles.finders.AppDirectoriesFinder")
+#STATICFILES_DIRS=(
+  #  os.path.join(BASE_DIR, "static"),)
+
+#STATIC_ROOT =('D:/projects/flip_v6/static')
+
 TEMPLATE_LOADERS = ('django.template.loaders.filesystem.Loader',
                     'django.template.loaders.app_directories.Loader')
 

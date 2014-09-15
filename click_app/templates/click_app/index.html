@@ -1,18 +1,80 @@
 <!DOCTYPE html>
 <html>
 <head>
+    {% load staticfiles %}
+    <link rel="stylesheet" href="{% static  "click_app/style.css" %}" type="text/css">
     <title>NAPRODAJE</title>
+    <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery.timer.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#h1").click(function(){
+                $(this).hide();
+            });
+        });
+        $(document).ready (function () {
+            startCount();
+        });
+
+        function startCount()
+        {
+            timer = setInterval(count,1000);
+        }
+        function count()
+        {
+            var time_shown = $("#p1").text();
+            var time_chunks = time_shown.split(":");
+            var hour, mins, secs;
+
+            hour=Number(time_chunks[0]);
+            mins=Number(time_chunks[1]);
+            secs=Number(time_chunks[2]);
+            secs++;
+            if (secs==60){
+                secs = 0;
+                mins=mins + 1;
+            }
+            if (mins==60){
+                mins=0;
+                hour=hour + 1;
+            }
+            if (hour==13){
+                hour=1;
+            }
+
+            $("#p1").text(hour +":" + plz(mins) + ":" + plz(secs));
+
+        }
+
+        function plz(digit){
+
+            var zpad = digit + '';
+            if (digit < 10) {
+                zpad = "0" + zpad;
+            }
+            return zpad;
+        }
+
+    </script>
 </head>
 <body>
-<h2>Tekweruu</h2><div style="width: 100%; height: 100px;">
 
-    {% for product in products %}
-        <div style="display: inline-block; float: right; width: 200px;border: 1px solid green;">
-    <h1 style="text-align: center">{{ product.name }}</h1>
-    <p style="text-align: center">${{ product.price }}</p>
-    <p style="text-align: center">{{ product.time }}</p>{% endfor %}</div></div>
+<div style="width: 100%; height: 100px;">
 
+
+<div class="container">
+            {% for product in products %}
+                <div class="product"
+                     >
+                        <h1 id="h1" >{{ product.name }}</h1>
+                        <p >${{ product.price }}</p>
+                        <p id="p1">00:00:00</p></div>
+                {% endfor %}
     <p>No thing to show</p>
+</div>
+
+</div>
+
 
 </body>
 </html>

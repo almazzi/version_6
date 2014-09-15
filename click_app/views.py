@@ -9,7 +9,7 @@ class ProductNaProdaje(ListView):
     context_object_name = "products"
 
     def get_queryset(self):
-        return Product.objects.filter(name="iphone")
+        return Product.objects.filter(na_prodaje="True")
 
 
 
