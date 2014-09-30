@@ -38,6 +38,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'click_app',
+    'south',
+    'rest_framework',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -73,7 +75,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'KGT'
 
 USE_I18N = True
 
@@ -93,6 +95,12 @@ STATICFILES_FINDERS = ("django.contrib.staticfiles.finders.FileSystemFinder",
 
 #STATIC_ROOT =('D:/projects/flip_v6/static')
 
+MEDIA_URL = 'D:/projects/flip_v6/'
+MEDIA_ROOT = 'D:/projects/flip_v6/'
+
 TEMPLATE_LOADERS = ('django.template.loaders.filesystem.Loader',
                     'django.template.loaders.app_directories.Loader')
 
+TEMPLATE_DIR = (
+    os.path.join(BASE_DIR, 'templates').replace('\\','/'),
+)

@@ -4,14 +4,28 @@
     <list default="true" id="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" name="Default" comment="" />
     <ignored path="flip_v6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/settings.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410483852893" ignored="false" />
-    <file path="/style.css" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410565862268" ignored="false" />
-    <file path="/urls.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410810984266" ignored="false" />
-    <file path="/models.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410814960876" ignored="false" />
-    <file path="/Django Console" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410815212062" ignored="false" />
-    <file path="/views.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410815282838" ignored="false" />
-    <file path="/index.html" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410566808312" ignored="false" />
+    <file path="/settings.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412024764440" ignored="false" />
+    <file path="/style.css" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1411069683857" ignored="false" />
+    <file path="/urls.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412027438004" ignored="false" />
+    <file path="/models.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412016221962" ignored="false" />
+    <file path="/Django Console" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412016207801" ignored="false" />
+    <file path="/views.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412089062025" ignored="false" />
+    <file path="/index.html" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412088474389" ignored="false" />
     <file path="/ajax.js" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410379408268" ignored="false" />
+    <file path="/Python Console" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1410988209243" ignored="false" />
+    <file path="D:/project/freelancer/css/bootstrap.min.css" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1411070159935" ignored="false" />
+    <file path="/index1.html" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412018209934" ignored="false" />
+    <file path="/bootstrap.css" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1411824461462" ignored="false" />
+    <file path="/admin.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1411999023234" ignored="false" />
+    <file path="/serializer.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412002689236" ignored="false" />
+    <file path="$PROJECT_DIR$/../not_last/snippets/urls.py" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1411813110547" ignored="false" />
+    <file path="/ml.js" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412069448092" ignored="false" />
+    <file path="/dummy.xml" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1411819075489" ignored="false" />
+    <file path="/controller.js" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412018382841" ignored="false" />
+    <file path="/Dummy.txt" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412079210719" ignored="false" />
+    <file path="D:/project/angular-timer/examples/angularjs-add-countdown-seconds.html" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412084385595" ignored="false" />
+    <file path="/angularjs-add-countdown-seconds.html" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412084385595" ignored="false" />
+    <file path="/base.html" changelist="6c6407ac-ba0b-4501-a6d1-c2b313debc3f" time="1412100222402" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +42,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click_app/static/click_app/style.css">
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="21" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
+            <state line="71" column="0" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flip_v6/urls.py">
+      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/click_app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
+            <state line="13" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.33147633">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,64 +63,55 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flip_v6/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="3" selection-start="2274" selection-end="2274" vertical-scroll-proportion="0.0">
+            <state line="98" column="10" selection-start="2438" selection-end="2438" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializer.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click_app/serializer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="74" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ml.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click_app/static/js/ml.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="9" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click_app/templates/click_app/index.html">
+        <entry file="file://$PROJECT_DIR$/click_app/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="42" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click_app/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="30" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0">
+            <state line="25" column="4" selection-start="1112" selection-end="1112" vertical-scroll-proportion="70.61539">
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <element signature="e#441#872#0" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click_app/static/js/jquery.min.js">
+      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click_app/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="1037" selection-end="1037" vertical-scroll-proportion="-5.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click_app/static/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.timer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/timer js/jquery.timer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="8" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/click_app/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="54" selection-start="334" selection-end="334" vertical-scroll-proportion="0.29310346">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ajax.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click_app/static/js/ajax.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,7 +120,16 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/click_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="34" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flip_v6/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="99" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -133,24 +145,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/click_app/static/js/ajax.js" />
+        <option value="$PROJECT_DIR$/click_app/static/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/click_app/templates/click_app/index1.html" />
+        <option value="$PROJECT_DIR$/click_app/admin.py" />
+        <option value="$PROJECT_DIR$/click_app/serializer.py" />
         <option value="$PROJECT_DIR$/click_app/urls.py" />
-        <option value="$PROJECT_DIR$/click_app/static/style.css" />
-        <option value="$PROJECT_DIR$/static/style.css" />
-        <option value="$PROJECT_DIR$/flip_v6/settings.py" />
-        <option value="D:/timer js/jquery.timer.js" />
-        <option value="$PROJECT_DIR$/click_app/static/click_app/style.css" />
-        <option value="$PROJECT_DIR$/click_app/templates/click_app/index.html" />
-        <option value="$PROJECT_DIR$/flip_v6/urls.py" />
         <option value="$PROJECT_DIR$/click_app/models.py" />
+        <option value="$PROJECT_DIR$/templates/click_app/index1.html" />
+        <option value="$PROJECT_DIR$/static/js/flipJS/controller.js" />
+        <option value="$PROJECT_DIR$/static/js/flipJS/app.js" />
+        <option value="$PROJECT_DIR$/static/js/flipJS/services.js" />
+        <option value="$PROJECT_DIR$/flip_v6/settings.py" />
+        <option value="$PROJECT_DIR$/flip_v6/urls.py" />
+        <option value="$PROJECT_DIR$/click_app/static/js/ml.js" />
+        <option value="$PROJECT_DIR$/click_app/templates/index.html" />
         <option value="$PROJECT_DIR$/click_app/views.py" />
+        <option value="$PROJECT_DIR$/click_app/templates/base.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="width" value="1346" />
-    <option name="height" value="722" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -178,6 +196,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,15 +204,9 @@
               <option name="myItemId" value="flip_v6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="flip_v6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flip_v6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -205,8 +218,18 @@
               <option name="myItemId" value="flip_v6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="flip_v6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flip_v6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,21 +247,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flip_v6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flip_v6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="click_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
-    <property name="last_opened_file_path" value="D:/project/freelancer" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="D:/project/angular-timer" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -251,16 +291,54 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\flip_v6\click_app\static\js" />
+      <recent name="D:\projects\flip_v6\click_app\templates\click_app" />
       <recent name="D:\projects\flip_v6\static\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\flip_v6" />
+      <recent name="D:\projects\flip_v6\click_app\templates" />
+      <recent name="D:\projects\flip_v6\templates" />
+      <recent name="D:\projects\flip_v6\templates\click_app\templates" />
       <recent name="D:\projects\flip_v6\click_app\static\click_app" />
-      <recent name="D:\projects\flip_v6\static" />
-      <recent name="D:\projects\flip_v6\click_app\static" />
-      <recent name="D:\projects\flip_v6\click_app" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.flip_v6">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="flip_v6" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="flip_v6" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,6 +376,13 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -344,18 +429,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1346" height="722" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29439253" sideWeight="0.7015986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24621212" sideWeight="0.6940171" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29840142" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17606838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30598292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -422,107 +507,109 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/click_app/static/js/ajax.js">
+    <entry file="file://$PROJECT_DIR$/click_app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/static/admin/img/changelist-bg.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/static/admin/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/static/admin/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="28" selection-start="3713" selection-end="3713" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/static/admin/img/tooltag-arrowright.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
+        <state line="8" column="41" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flip_v6/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="3" selection-start="2274" selection-end="2274" vertical-scroll-proportion="0.0">
+        <state line="98" column="10" selection-start="2438" selection-end="2438" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/jquery.min.js">
+    <entry file="file://C:/Python27/Lib/site-packages/django/template/defaulttags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1237" column="4" selection-start="44545" selection-end="44545" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/rest_framework/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="711" selection-end="711" vertical-scroll-proportion="0.9636871" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flip_v6/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="99" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/logging/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/static/js/jquery.min.js">
+    <entry file="file://C:/Python27/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="0" selection-start="5471" selection-end="5471" vertical-scroll-proportion="0.044736844" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click_app/static/js/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-9.875723">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click_app/static/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/timer js/jquery.timer.js">
+    <entry file="file://$PROJECT_DIR$/click_app/static/js/ml.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
+        <state line="10" column="9" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/static/click_app/style.css">
+    <entry file="file://$PROJECT_DIR$/click_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="21" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/templates/click_app/index.html">
+    <entry file="file://$PROJECT_DIR$/click_app/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="42" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.65384614">
+        <state line="11" column="74" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flip_v6/urls.py">
+    <entry file="file://$PROJECT_DIR$/click_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
+        <state line="71" column="0" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click_app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1037" selection-end="1037" vertical-scroll-proportion="-5.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click_app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="4" selection-start="1112" selection-end="1112" vertical-scroll-proportion="70.61539">
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/click_app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="30" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#441#872#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/click_app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="54" selection-start="334" selection-end="334" vertical-scroll-proportion="0.29310346">
+        <state line="13" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.33147633">
           <folding />
         </state>
       </provider>

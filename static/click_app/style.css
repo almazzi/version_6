@@ -1,0 +1,13 @@
+li a{
+    color: #560000;
+}
+
+.product{
+    display: inline-block;
+    float: right;
+    border: 2px solid #F0750A;
+}
+
+.container{
+    width: 500px; border: 3px dotted dimgray; height: auto; display: block
+}
